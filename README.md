@@ -15,3 +15,5 @@
 07，Introduction to XGBoost
 
 08，Introduction to LightGBM
+
+09，Introduction to CatBoost
