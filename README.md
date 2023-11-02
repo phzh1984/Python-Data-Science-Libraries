@@ -23,3 +23,5 @@
 11，Introduction to Numpy
 
 12，Introduction to Matplotlib
+
+13，Introduction to Seaborn
