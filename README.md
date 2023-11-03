@@ -27,3 +27,6 @@
 13，Introduction to Seaborn
 
 14，Introduction to NLTK
+
+15，Introduction to spaCy
+
