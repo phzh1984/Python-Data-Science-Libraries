@@ -32,3 +32,5 @@
 
 16，Introduction to OpenCV
 
+17，Introduction to Statsmodels
+
