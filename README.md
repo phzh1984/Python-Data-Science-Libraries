@@ -30,3 +30,5 @@
 
 15，Introduction to spaCy
 
+16，Introduction to OpenCV
+
